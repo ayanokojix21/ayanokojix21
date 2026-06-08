@@ -54,13 +54,6 @@ The real challenge is designing systems that people can trust and actually benef
 
 ## 🚀 Featured Work
 
-The repositories pinned below are the best representation of what I'm currently building.
-
----
-
-# 📊 Metrics
-
-<img src="./github-metrics.svg" alt="Metrics" width="100%"/>
-
+The repositories pinned below are the best representation of what I've Build.
 
 ---
