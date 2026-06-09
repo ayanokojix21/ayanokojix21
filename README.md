@@ -3,7 +3,7 @@
 <div align="center">
 
 <b>
-Multi-Agent Systems • Educational AI • Open Source
+Multi Agent Systems • LLM Engineering • Educational Technology
 </b>
 
 
@@ -13,27 +13,20 @@ Multi-Agent Systems • Educational AI • Open Source
 
 # Hey, I'm Nishchal 👋
 
-I'm a student who enjoys building AI systems, experimenting with new ideas, and occasionally turning those ideas into open-source projects.
+🌐 [LinkedIn](https://www.linkedin.com/in/nishchal-chandel-b043b9319/) • [Kaggle](https://www.kaggle.com/nishchalchandel) • [Portfolio](https://portfolio-two-pied-69.vercel.app/)
+
+I'm a computer science student interested in Machine Learning, Multi-Agent Systems, and Open Source Software.
+
+🧠 Building educational technology, intelligent systems, and developer tools.
+
+⚙️ Exploring retrieval architectures, LLM engineering, and the challenges behind building reliable AI systems.
+
+🚀 Turning ideas into products that people genuinely find useful.
+
 
 ---
 
-## Why I Build
-
-<div align="center">
-
-I'm less interested in chatbots and more interested in systems.
-
-The kind that help students learn, volunteers coordinate, and developers build faster.
-
-AI is just one piece of that puzzle.
-
-The real challenge is designing systems that people can trust and actually benefit from.
-
-</div>
-
----
-
-## ⚙️ Current Stack
+## ⚙️ Tools & Technologies
 
 <div align="center">
 
@@ -54,6 +47,6 @@ The real challenge is designing systems that people can trust and actually benef
 
 ## 🚀 Featured Work
 
-The repositories pinned below are the best representation of what I've Build.
+The repositories pinned below showcase the projects I'm most proud of.
 
 ---
